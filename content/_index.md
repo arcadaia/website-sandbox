@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
+<img src="/assets/images/logo.png" alt="TantraLab Logo" style="height:48px;">
 date: 2022-10-24
 type: landing
 
