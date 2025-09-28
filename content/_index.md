@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Tantra Lab
       image:
         filename: lab_Vishal.jpg
       text: |
