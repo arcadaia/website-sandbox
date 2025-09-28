@@ -11,7 +11,7 @@ sections:
         Wowchemy
         Research Group
       image:
-        filename: welcome.jpg
+        filename: lab_Vishal.jpg
       text: |
         <br>
         
