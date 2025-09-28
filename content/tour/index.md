@@ -13,7 +13,7 @@ sections:
         align: left
         background:
           image:
-            filename: coders.jpg
+            filename: lab_Vishal.jpg
             filters:
               brightness: 0.7
           position: right
@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: lab_Vishal.jpg
             filters:
               brightness: 0.5
           position: center
