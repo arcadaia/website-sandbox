@@ -13,7 +13,7 @@ sections:
         align: left
         background:
           image:
-            filename: coder.jpg
+            filename: coders.jpg
             filters:
               brightness: 0.7
           position: right
