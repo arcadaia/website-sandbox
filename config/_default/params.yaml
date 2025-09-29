@@ -21,7 +21,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    logo: "images/LogoY.png"
+    logo: "images/Lab_icon.png"
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
