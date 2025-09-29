@@ -15,7 +15,7 @@ sections:
           image:
             filename: coders.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Early detection of Age related Macular Degenration
+        content: 'Translating to Real World Applicaiton!'
         align: right
         background:
           image:
