@@ -1,5 +1,5 @@
 ---
-title: About
+title: Research
 date: 2022-10-24
 
 type: landing
@@ -8,9 +8,9 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Tantra Lab
-        content: Founded by Vishal Jain, a translational neuroscientist, TANTRA Lab is an incubator space dedicated to building the next generation of neurotechnologies that bridge discovery and practice. Established within the Chamanzar Lab under the mentorship of Prof. Maysam Chamanzar and Prof. Pulkit Grover, TANTRA Lab integrates engineering, neuroscience, and clinical insight to design tools that advance how we sense, stimulate, and interface with the brain and body.Our mission is to translate cutting-edge research into real-world solutions—from novel brain stimulation and neural recording platforms to innovative imaging and sensing technologies. By combining rigorous scientific exploration with a translational mindset, TANTRA Lab aims to create impactful systems that address pressing challenges in neuroscience, medicine, and human health.
-        align: left
+      - title: High Precision Non-invasive electrical stimulation 
+        content: Our lab is pioneering high-density non-invasive brain stimulation, a new approach that uses advanced electrode arrays to deliver highly focused and steerable electrical fields. Unlike conventional methods that spread current broadly, our technology allows us to precisely target specific brain regions and networks. This opens the door to safer, more effective ways of studying brain function and developing therapies for neurological and psychiatric conditions.
+        align: justify
         background:
           image:
             filename: coders.jpg
@@ -48,7 +48,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
