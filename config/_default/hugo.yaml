@@ -6,7 +6,7 @@
 title: Tantra Lab
 baseURL: "https://arcadaia.github.io/website-sandbox/"
 canonifyURLs: true
-relativeURLs: true
+relativeURLs: false  
 
 
 ############################
