@@ -34,9 +34,10 @@ jobs:
           hugo mod clean
           hugo mod tidy
 
+      # .github/workflows/deploy.yml  → Build step
       - name: Build
-        run: hugo --minify --cleanDestinationDir \
-            --baseURL "https://arcadaia.github.io/website-sandbox/"
+        run: hugo --minify --cleanDestinationDir --baseURL "https://arcadaia.github.io/website-sandbox/"
+
 
 
       - name: Upload artifact
