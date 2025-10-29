@@ -30,7 +30,6 @@ education:
     - course: PhD in Neuroscience
       institution: Bharathiar University
       year: 2013
-    -
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
